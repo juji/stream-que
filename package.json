@@ -1,7 +1,7 @@
 {
   "name": "stream-que",
-  "version": "1.0.0",
-  "description": "converting array of strings and streams",
+  "version": "1.0.1",
+  "description": "converting array of strings and streams into a single stream",
   "main": "index.js",
   "directories": {
     "test": "test"
