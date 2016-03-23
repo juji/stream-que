@@ -1,0 +1,32 @@
+{
+  "name": "stream-que",
+  "version": "1.0.0",
+  "description": "converting array of strings and streams",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juji/stream-que.git"
+  },
+  "keywords": [
+    "stream",
+    "que",
+    "queue",
+    "order"
+  ],
+  "author": "jujiyangasli@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juji/stream-que/issues"
+  },
+  "homepage": "https://github.com/juji/stream-que#readme"
+}
